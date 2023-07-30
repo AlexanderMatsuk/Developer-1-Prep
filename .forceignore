@@ -10,3 +10,8 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+#Deployment errors fix 
+force-app/main/default/layouts/*
+force-app/main/default/entitlementProcesses/*
+force-app/main/default/managedContentTypes/*
